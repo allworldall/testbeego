@@ -1,0 +1,1 @@
+D:\go\mygo\src\testbeego/views/user/edit.tpl
